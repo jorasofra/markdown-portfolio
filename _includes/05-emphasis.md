@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Me gusta **aprender** cosas nuevas y _mejorar_ mis aptitudes._
